@@ -4,16 +4,11 @@
 
 ## Table of contents
 
-- [General info](#general-info)
 - [Screenshots](#screenshots)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
 - [Inspiration](#inspiration)
-
-## General info
-
-This application was made to improve React JS skills.
 
 ## Screenshots
 
@@ -33,7 +28,7 @@ To run this project install it locally using npm:
 - npm install
 - npm start
 
-Link to application: https://drzasta.github.io/Note-Me/
+Link to application: https://justyna-gawlik.github.io/Note-Me/
 
 ## Features
 
