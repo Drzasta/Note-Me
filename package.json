@@ -1,0 +1,36 @@
+{
+  "name": "noteme-with-edition",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://Drzasta.github.io/Note-Me",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "@material/fab": "7.0.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-editext": "3.17.1",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
