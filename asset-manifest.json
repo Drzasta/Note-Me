@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Note-Me/static/js/main.f95d44f8.chunk.js",
+    "main.js.map": "/Note-Me/static/js/main.f95d44f8.chunk.js.map",
+    "runtime~main.js": "/Note-Me/static/js/runtime~main.3c3b7135.js",
+    "runtime~main.js.map": "/Note-Me/static/js/runtime~main.3c3b7135.js.map",
+    "static/js/2.c85bb0b4.chunk.js": "/Note-Me/static/js/2.c85bb0b4.chunk.js",
+    "static/js/2.c85bb0b4.chunk.js.map": "/Note-Me/static/js/2.c85bb0b4.chunk.js.map",
+    "index.html": "/Note-Me/index.html",
+    "precache-manifest.c98f18613e12cebbce7fffdb3d346fa4.js": "/Note-Me/precache-manifest.c98f18613e12cebbce7fffdb3d346fa4.js",
+    "service-worker.js": "/Note-Me/service-worker.js"
+  }
+}
