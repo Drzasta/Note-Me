@@ -29,11 +29,11 @@ This application was made to improve React JS skills.
 
 To run this project install it locally using npm:
 
-- cd.../NoteMe
+- cd.../Note-Me
 - npm install
 - npm start
 
-Link to application: https://drzasta.github.io/NoteMe/
+Link to application: https://drzasta.github.io/Note-Me/
 
 ## Features
 
