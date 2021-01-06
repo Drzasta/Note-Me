@@ -9,7 +9,7 @@
 - [Features](#features)
 - [Inspiration](#inspiration)
 
-![](noteme.gif)
+![](note-me.gif)
 
 ## Technologies
 
